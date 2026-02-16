@@ -26,7 +26,7 @@ DesyncTrace is a professional-grade detection and exploitation tool for HTTP Req
 ## 📦 Installation
 
 ```bash
-go install github.com/byteoverride/desynctrace@latest
+go install github.com/byteoverride/desynctrace/cmd/desynctrace@latest
 ```
 
 ### From Source
